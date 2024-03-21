@@ -16,15 +16,15 @@
 
 <div align="center">
   <a href="https://github.com/guiirdrigues">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=vitor-ext&theme=rising-sun&hide_border=true&exclude_days=Sun" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=guiirdrigues&theme=rising-sun&hide_border=true&exclude_days=Sun" />
   </a>
   
 </div>
   
 <div align="center">
   <a href="https://github.com/dawidolko">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitor-ext&theme=slateorange" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitor-ext&theme=slateorange" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=guiirdrigues&theme=slateorange" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guiirdrigues&theme=slateorange" />
   </a>
 </div>
 
