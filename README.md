@@ -1,11 +1,11 @@
 <p align="center">
-   ❣🚀❣  Guilherme Silva 🚀
+   🚀  Guilherme Silva 🚀
 </p>
  
 
 <div align="center">
-  <a href="https://github.com/Guidrigues">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitor-ext&theme=slateorange" />
+  <a href="https://github.com/guiidrigues">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guiidrigues&theme=slateorange" />
   </a>
   
   </div>
